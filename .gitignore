@@ -1,4 +1,4 @@
-
+Backup*/
 /work
 bin
 obj
@@ -12,3 +12,8 @@ Thumbs.db
 /Doc/build
 /Release
 MolesAssemblies
+/UpgradeLog4.htm
+/UpgradeLog3.htm
+/UpgradeLog2.htm
+/UpgradeLog.htm
+.vs

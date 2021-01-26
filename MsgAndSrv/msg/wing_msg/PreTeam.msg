@@ -1,0 +1,2 @@
+bool pre_team_master
+string pre_slave_ip

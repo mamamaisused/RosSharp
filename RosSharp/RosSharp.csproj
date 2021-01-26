@@ -93,6 +93,7 @@
     <Compile Include="Generated\msg\std_msgs\UInt64MultiArray.cs" />
     <Compile Include="Generated\msg\std_msgs\UInt8.cs" />
     <Compile Include="Generated\msg\std_msgs\UInt8MultiArray.cs" />
+    <Compile Include="Generated\msg\wing_msg\OdomTf.cs" />
     <Compile Include="Generated\srv\roscpp\Empty.cs" />
     <Compile Include="Generated\srv\roscpp\GetLoggers.cs" />
     <Compile Include="Generated\srv\roscpp\SetLoggerLevel.cs" />

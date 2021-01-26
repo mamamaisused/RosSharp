@@ -1,0 +1,3 @@
+bool follow
+float32 follow_distance
+int16 follow_speed

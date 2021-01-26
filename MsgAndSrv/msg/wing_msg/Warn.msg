@@ -1,0 +1,3 @@
+bool emergency_stop
+bool slow_down
+float32 speed_ratio
